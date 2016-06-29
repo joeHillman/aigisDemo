@@ -1,0 +1,14 @@
+{
+  "name": "myAigis",
+  "version": "1.0.0",
+  "description": "Aigis Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-aigis": "^1.1.1"
+  }
+}
